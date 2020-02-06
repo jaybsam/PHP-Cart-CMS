@@ -29,7 +29,7 @@ if($message!="") {
 <?php include("header.php"); ?>
 
 <div class="content">
-<h3>Login</h3>
+<h3>Login asdasdas</h3>
 <table border="0" cellpadding="10" cellspacing="1" width="500" align="center">
 <tr class="tableheader">
 <td align="center" colspan="2"><strong>Login</strong></td>

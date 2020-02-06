@@ -37,7 +37,7 @@ The traditional sushi of Japan (和食 washoku?) is based on rice with miso soup
 
 Apart from rice, staples include noodles, such as soba and udon. Japan has many simmered dishes such as fish products in broth called oden, or beef in sukiyaki and nikujaga. Foreign food—in particular Chinese food in the form of noodles in soup called ramen, fried dumplings, and gyōza—plus curry and hamburgers are commonly found in Japan.
 
-Historically, the Japanese shunned meat, but with the modernization of Japan in the 1880s, meat-based dishes such as tonkatsu became common.</p>
+Historically, the Japanese shunned meat, but with the modernization of Japan in the 1880s, meat-based dishes such as tonkatsu became common. asdasdasd</p>
 </div>
 
 <?php include("footer.php"); ?>

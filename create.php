@@ -22,7 +22,7 @@ include("header.php");
 		Username:<input type="text" name="user_name"><br/><br/>	
 	
 		Password:<input type="password" name="password"><br/><br/>
-
+asdasdasdasdasdas
 	
 		<input type="submit" value="Create">
 
